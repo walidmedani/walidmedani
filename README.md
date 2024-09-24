@@ -14,6 +14,7 @@ Database: PostgreSQL, MySQL
 Visualization: Power BI
 
 👋🏻 Connect with Me
+
 <a href="https://www.linkedin.com/in/wmedani/">LinkedIn</a>
 
 
