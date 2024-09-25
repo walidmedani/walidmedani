@@ -1,4 +1,4 @@
-Hello, I'm Walid. Former UX designer and researcher, now a data Analyst with expertise in  analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Walid. Former UX designer and researcher, now a data analyst with expertise in analysis and reporting, query optimization, database design, and data modelling.
 
 Querying data using and perform ad-hoc data analysis using SQL.
 Developing dashboards on Power BI.
@@ -6,8 +6,8 @@ Data analysis and reporting using Python & R.
 
 🛠️ Tools
 Language: SQL, Python, R
-Database: PostgreSQL, MySQL
-Visualization: Power BI
+Database: MySQL, PostgreSQL
+Visualization: Power BI, Seaborn, ggplot2
 
 👋🏻 Connect with Me
 <a href="https://www.linkedin.com/in/wmedani/">LinkedIn</a>
