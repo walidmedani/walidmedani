@@ -9,10 +9,6 @@ Hello, I'm Walid. Former UX designer and researcher, now a data analyst with exp
 - Database: MySQL, PostgreSQL
 - Visualization: Power BI, Seaborn, ggplot2
 
-👋🏻 Connect with Me
-<a href="https://www.linkedin.com/in/wmedani/">LinkedIn</a>
-
-
 # 😺 Walid Medani's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
@@ -22,7 +18,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Python](#python)
 - [Power BI](#PowerBI)
 - [R](#R)
-
 
 ***
 
@@ -60,7 +55,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ***
 
 # R
-
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 👩🏻‍💻 [Sentiment Analysis](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
+| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
 ***
 
 
