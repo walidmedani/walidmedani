@@ -5,9 +5,9 @@ Hello, I'm Walid. Former UX designer and researcher, now a data analyst with exp
 - Data analysis and reporting using Python & R.
 
 🛠️ Tools
-Language: SQL, Python, R
-Database: MySQL, PostgreSQL
-Visualization: Power BI, Seaborn, ggplot2
+- Language: SQL, Python, R
+- Database: MySQL, PostgreSQL
+- Visualization: Power BI, Seaborn, ggplot2
 
 👋🏻 Connect with Me
 <a href="https://www.linkedin.com/in/wmedani/">LinkedIn</a>
