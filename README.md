@@ -1,5 +1,5 @@
 # Walid Medani
-### Data | Semantics Engineer
+### Data & Semantics Engineer
 
 I build scalable data systems that bridge the gap between raw infrastructure and intelligent applications. My focus is on **Data and Semantics Engineering**—ensuring that data is not only moving efficiently but is structured with the precision required for **AI/LLM integration** and high-utility analytics. 
 
