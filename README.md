@@ -1,9 +1,18 @@
 # Walid Medani
 ### Data & Semantics Engineer
 
-I build scalable data systems that bridge the gap between raw infrastructure and intelligent applications. My focus is on **Data and Semantics Engineering**—ensuring that data is not only moving efficiently but is structured with the precision required for **AI/LLM integration** and high-utility analytics. 
+I build scalable data systems that bridge the gap between raw infrastructure and intelligent applications. My focus is on **Data and Semantics Engineering**, ensuring that data is not only moving efficiently but is structured with the precision required for AI/LLM integration and high-utility analytics. 
 
 *I design data systems with a user-centric philosophy, ensuring that complex backends result in intuitive, reliable data products.*
+
+---
+
+## 🧠 Technical Skills
+* **Core Programming:** SQL, Python, Spark, Polars, Pandas, Bash, Git, Data Modeling, Schema Design
+* **Data Engineering & Orchestration:** Apache Airflow, dbt, DuckDB, Great Expectations, CI/CD, Data Lineage, Automated Ingestion
+* **Cloud Infrastructure & DevOps:** Terraform, Docker, AWS, Snowflake, BigQuery, Redshift, PostgreSQL, MySQL
+* **Semantic Engineering:** Semantic Layering, Metadata Management, Taxonomy Mapping, dbt MetricFlow
+* **AI & Advanced Analytics:** Vector-ready Modeling, Data Portfolio Design, 3D Network Visualization, PowerBI
 
 ---
 
@@ -24,13 +33,6 @@ A production-grade ETL system designed for automated web data collection and str
 ### [SQL Web Analytics & Behavioral Mapping](https://github.com/walidmedani/SQL-Web_Analytics)
 Advanced transformation and modeling of clickstream event data. This project leverages complex SQL logic to reconstruct user sessions and conversion funnels from raw event logs. By defining precise behavioral semantics and optimizing query performance through CTEs and window functions, it provides the foundational logic required for predictive modeling and automated user clustering.
 * **Tools:** Advanced SQL (PostgreSQL), Data Modeling, Analytical Engineering.
-
----
-
-## 🧠 Technical Skills
-* **Engineering:** Apache Airflow, Python, Docker, Terraform, dbt.
-* **Semantics:** Schema Design, Semantic Layering, Metadata Management.
-* **AI Readiness:** Vector-ready Modeling, Taxonomy Mapping, Data Lineage.
 
 ---
 
